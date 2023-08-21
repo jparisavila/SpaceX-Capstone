@@ -1,5 +1,5 @@
 # SpaceX-Capstone
-Projeto de conclusão do certfificado profissional para Ciência de Dados da IBM.
+Projeto de conclusão do certificado profissional para Ciência de Dados da IBM. Aqui usamos classificação e diversos métodos de análise exploratória de dados para prever se o primeiro estágio do foguete Falcon 9 da empresa SpaceX irá pousar com sucesso ou não, e como os dados influenciam nesse sucesso ou fracasso. 
 
 ## Ferramentas
 
